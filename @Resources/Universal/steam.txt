@@ -1,0 +1,14 @@
+Lego game,            214510
+Skyrim,               72850
+Shadow of Mordor,     241930
+The Witcher 3,        292030
+Crusader Kings 2,     203770
+Dishonored,           614570
+Vermintide,           235540
+Rocket League,        252950
+Chivalry,             219640
+Left 4 Dead 2,        550
+Warframe,             230410
+Assassin's Creed,     242050
+Zombie Army Trilogy,  301640
+Far Cry 4,            298110
