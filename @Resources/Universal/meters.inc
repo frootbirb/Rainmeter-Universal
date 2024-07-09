@@ -28,6 +28,15 @@ FontSize=#LargeFont#
 AntiAlias=1
 StringAlign=Right
 
+[WeatherMeter]
+X=(2*#BarLength#)
+Y=r
+FontFace=#TitleFont#
+FontColor=#TitleColor#
+FontSize=#MedFont#
+AntiAlias=1
+StringAlign=Right
+
 [TempMeter]
 X=(2*#BarLength#)
 Y=r
