@@ -21,19 +21,10 @@ Hidden=1
 
 [MainMeter]
 X=#BarLength#
-Y=r
+Y=0
 FontFace=#TitleFont#
 FontColor=#TitleColor#
 FontSize=#LargeFont#
-AntiAlias=1
-StringAlign=Right
-
-[WeatherMeter]
-X=(2*#BarLength#)
-Y=r
-FontFace=#TitleFont#
-FontColor=#TitleColor#
-FontSize=#MedFont#
 AntiAlias=1
 StringAlign=Right
 
@@ -66,7 +57,7 @@ StringAlign=Left
 
 [Pie]
 X=#WheelRad#r
-Y=r
+Y=0
 W=(2*#WheelRad#)
 H=(2*#WheelRad#)
 StartAngle=4.712
@@ -78,7 +69,7 @@ AntiAlias=1
 
 [OuterRingMeter]
 X=r
-Y=r
+Y=0
 W=(2*#WheelRad#)
 H=(2*#WheelRad#)
 StartAngle=4.712
@@ -91,7 +82,7 @@ AntiAlias=1
 
 [PieMeter]
 X=r
-Y=r
+Y=0
 W=(2*#WheelRad#)
 H=(2*#WheelRad#)
 StartAngle=4.712
